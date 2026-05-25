@@ -80,30 +80,53 @@ At Qpon (subsidiary of OPPO), I worked in the User Growth division managing end-
 - **Result:** +200% increase in users playing the game, +300 unique visitors
 
 ---
-
 ## Growth Marketing Frameworks I Apply
+Growth Loop Framework — How I Design Campaigns
+Every campaign I build follows a Growth Loop principle with three interconnected phases:
+1. Education & Awareness
+Objective: Build understanding and perceived value of the product/feature
+Key Question: Why should I care about this?
+What I do: Competitor research, user behavior analysis, defining the campaign narrative and messaging
 
-### AARRR (Pirate Metrics) — How I think about growth
+2. Behavior Activation Strategy
+Objective: Trigger action and habit formation
+Key Question: Why should I do that?
+What I do: Design campaign mechanics, user journey, challenge structure, and incentive systems that drive the desired user behavior
 
-```
-Acquisition  → How do users find us?                    (Invite Friends campaign)
-Activation   → Do users have a great first experience?  (Onboarding flows)
-Retention    → Do users come back?                      (Lucky Draw, Match & Munch daily engagement)
-Referral     → Do users tell others?                    (Invite Friends mechanics)
-Revenue      → How do we make money?                    (Merchant data through partnership, subsidize product)
-```
+3. Value Reinforcement
+Objective: Strengthen perceived value of the product/feature
+Key Question: Was it worth it to engage?
+What I do: Monitor performance metrics, analyze outcomes, prepare reports for management, and iterate for the next cycle
 
-### My Campaign Planning Process (Waterfall + Agile hybrid)
+This loop is not linear — it's continuous. Each campaign ends with insights that feed back into the next Education & Awareness phase, making every iteration smarter than the last.
 
-```
-1. Research      → Competitor analysis, user behavior data, A/B test results
-2. Ideation      → Campaign mechanics, user journey mapping
-3. Documentation → PRD-style brief to PM, timeline setting, TnC, User Flow, budget
-4. Alignment     → Stakeholder sign-off across divisions
-5. Execution     → Backend setup, content, push notifications, WhatsApp blast
-6. Monitoring    → Looker Studio dashboard, daily metrics check
-7. Iteration     → Optimize feature based on data
-```
+My End-to-End Campaign Process — From Ideation to Reporting
+
+Phase 1: Ideation
+Conduct competitor research and analyze user behavior data from previous campaigns
+Identify growth opportunities and define campaign objectives
+Map out user journey and design campaign mechanics
+Prepare PRD-style brief including objectives, TnC, user flow, prize collection flow, and timeline
+Present proposal to manager/stakeholders for approval
+
+Phase 2: Alignment & Preparation
+Align with cross-functional teams (Product, Marketing, Finance, Procurement, HR, Fraud Control) on roles and responsibilities
+Finalize budget with Finance and coordinate prize procurement with Procurement team
+Brief Marketing team on campaign messaging, content, and promotion strategy
+Set up backend configurations — banners, in-app display, push notification copy and setup
+
+Phase 3: Execution
+Launch campaign across channels — in-app, push notifications, WhatsApp blast, social media
+Monitor daily metrics through Looker Studio dashboard
+Conduct A/B testing on messaging and mechanics to optimize performance
+Coordinate with Customer Service to handle user inquiries and issues in real-time
+Validate winner eligibility with HR and Fraud Control before announcement
+
+Phase 4: Reporting & Iteration
+Compile campaign performance report covering key metrics (DAU, user inviters, UV, engagement rate)
+Present results and insights to management
+Identify what worked, what didn't, and why
+Document learnings and feed insights back into the next campaign ideation cycle
 
 ---
 
