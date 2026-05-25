@@ -63,7 +63,7 @@ Revenue      → How do we make money?           (Merchant data)
 ```
 1. Research      → Competitor analysis, user behavior data, A/B test results
 2. Ideation      → Campaign mechanics, user journey mapping
-3. Documentation → PRD-style brief, timeline, budget
+3. Documentation → PRD-style brief to PM, timeline setting, TNC, User Flow, budget
 4. Alignment     → Stakeholder sign-off across divisions
 5. Execution     → Backend setup, content, push notifications, WhatsApp blast
 6. Monitoring    → Looker Studio dashboard, daily metrics check
