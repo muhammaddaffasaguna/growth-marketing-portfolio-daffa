@@ -102,34 +102,33 @@ This loop is not linear — it's continuous. Each campaign ends with insights th
 
 My End-to-End Campaign Process — From Ideation to Reporting
 
-Phase 1: Ideation
-Conduct competitor research and analyze user behavior data from previous campaigns
-Identify growth opportunities and define campaign objectives
-Map out user journey and design campaign mechanics
-Prepare PRD-style brief including objectives, TnC, user flow, prize collection flow, and timeline
-Present proposal to manager/stakeholders for approval
+1. Phase 1: Ideation
+  Conduct competitor research and analyze user behavior data from previous campaigns
+  Identify growth opportunities and define campaign objectives
+  Map out user journey and design campaign mechanics
+  Prepare PRD-style brief including objectives, TnC, user flow, prize collection flow, and timeline
+  Present proposal to manager/stakeholders for approval
 
-Phase 2: Alignment & Preparation
-Align with cross-functional teams (Product, Marketing, Finance, Procurement, HR, Fraud Control) on roles and responsibilities
-Finalize budget with Finance and coordinate prize procurement with Procurement team
-Brief Marketing team on campaign messaging, content, and promotion strategy
-Set up backend configurations — banners, in-app display, push notification copy and setup
+2. Phase 2: Alignment & Preparation
+  Align with cross-functional teams (Product, Marketing, Finance, Procurement, HR, Fraud Control) on roles and responsibilities
+  Finalize budget with Finance and coordinate prize procurement with Procurement team
+  Brief Marketing team on campaign messaging, content, and promotion strategy
+  Set up backend configurations — banners, in-app display, push notification copy and setup
 
-Phase 3: Execution
-Launch campaign across channels — in-app, push notifications, WhatsApp blast, social media
-Monitor daily metrics through Looker Studio dashboard
-Conduct A/B testing on messaging and mechanics to optimize performance
-Coordinate with Customer Service to handle user inquiries and issues in real-time
-Validate winner eligibility with HR and Fraud Control before announcement
+3. Phase 3: Execution
+  Launch campaign across channels — in-app, push notifications, WhatsApp blast, social media
+  Monitor daily metrics through Looker Studio dashboard
+  Conduct A/B testing on messaging and mechanics to optimize performance
+  Coordinate with Customer Service to handle user inquiries and issues in real-time
+  Validate winner eligibility with HR and Fraud Control before announcement
 
-Phase 4: Reporting & Iteration
-Compile campaign performance report covering key metrics (DAU, user inviters, UV, engagement rate)
-Present results and insights to management
-Identify what worked, what didn't, and why
-Document learnings and feed insights back into the next campaign ideation cycle
+4. Phase 4: Reporting & Iteration
+  Compile campaign performance report covering key metrics (DAU, user inviters, UV, engagement rate)
+  Present results and insights to management
+  Identify what worked, what didn't, and why
+  Document learnings and feed insights back into the next campaign ideation cycle
 
 ---
-
 ## Community Growth
 
 Beyond campaigns, I managed a **WhatsApp Community of 10,000+ members** — handling daily engagement, segmentation, and blast communications to drive retention and program participation.
