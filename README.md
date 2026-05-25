@@ -90,7 +90,7 @@ Acquisition  → How do users find us?                    (Invite Friends campai
 Activation   → Do users have a great first experience?  (Onboarding flows)
 Retention    → Do users come back?                      (Lucky Draw, Match & Munch daily engagement)
 Referral     → Do users tell others?                    (Invite Friends mechanics)
-Revenue      → How do we make money?                    (Merchant data, subsidize product)
+Revenue      → How do we make money?                    (Merchant data through partnership, subsidize product)
 ```
 
 ### My Campaign Planning Process (Waterfall + Agile hybrid)
