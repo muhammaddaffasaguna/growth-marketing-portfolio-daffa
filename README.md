@@ -80,7 +80,7 @@ I also executed **7 offline campus activation events across Jakarta** in 6 month
 
 ## What I'm Learning
 
-- **Python for Data Analytics** — Currently learning pandas, matplotlib for campaign data analysis
+- **Python for Data Analytics** — Currently learning pandas, matplotlib for campaign data analysis https://colab.research.google.com/drive/1jjLmDoad-YEEomFdAd44XOBiQw7Rm2zZ?usp=sharing
 - **SQL** — Learning for deeper data querying beyond dashboard tools
 - **GitHub** — This repository is part of that learning journey
 
