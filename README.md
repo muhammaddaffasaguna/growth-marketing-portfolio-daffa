@@ -83,17 +83,18 @@ At Qpon (subsidiary of OPPO), I worked in the User Growth division managing end-
 ## Growth Marketing Frameworks I Apply
 Growth Loop Framework — How I Design Campaigns
 Every campaign I build follows a Growth Loop principle with three interconnected phases:
+
 1. Education & Awareness
 Objective: Build understanding and perceived value of the product/feature
 Key Question: Why should I care about this?
 What I do: Competitor research, user behavior analysis, defining the campaign narrative and messaging
 
-2. Behavior Activation Strategy
+3. Behavior Activation Strategy
 Objective: Trigger action and habit formation
 Key Question: Why should I do that?
 What I do: Design campaign mechanics, user journey, challenge structure, and incentive systems that drive the desired user behavior
 
-3. Value Reinforcement
+4. Value Reinforcement
 Objective: Strengthen perceived value of the product/feature
 Key Question: Was it worth it to engage?
 What I do: Monitor performance metrics, analyze outcomes, prepare reports for management, and iterate for the next cycle
